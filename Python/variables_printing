@@ -1,0 +1,16 @@
+my_name='Roshini'
+my_age=34
+my_height=156
+my_weight=45
+my_teeth='white'
+my_hair='black'
+print("Lets go to talk about me")
+print(f"Lets startand my name is{my_name}")
+print(f"and my age is{my_age}")
+print(f"and my height is {my_height} and i know the is less ")
+print(f"and my weight is{my_weight} and i think i am over weight")
+print(f"my teeth colour is{my_teeth}")
+print(f"and my hair colour is {my_hair}")
+print("That is all about me")
+total=my_age+my_height+my_weight
+print(f"the total to count the myage,myheight,myweight and to get{total}.")
